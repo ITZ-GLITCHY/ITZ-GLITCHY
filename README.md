@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bot Developing For Discord . I also want to start Ethical Hacking in a Few - Months.
 - 🌱 I’m currently learning C++ , Python and JS (Almost completed)
 - 💞️ I’m not looking to collaborate Right Now . I will collaborate when I fully complete Python and JS
-- 📫 You can Reach me On Discord - ITZ GLITCHY#0025 or you can DM me on Instagram (Less active btw ) @itz_gleechy
+- 📫 You can Reach me On Discord - ITZ GLITCHY#0789 or you can DM me on Instagram (Less active btw ) @itz_gleechy
 - 💡 My Few Discord Bots are - xD Tunes , xD Applications ,  Easy Mod-Mail , and My Moderation.
 
 
